@@ -2,7 +2,10 @@
 My first repository
 ## Danganronpa
 
-![<img width="286" height="348" alt="image" src="https://github.com/user-attachments/assets/8bd3ceaf-9ecc-4751-a1cd-a74d609eddf5" />]
+!<img width="286" height="348" alt="image" src="https://github.com/user-attachments/assets/8bd3ceaf-9ecc-4751-a1cd-a74d609eddf5" />
+
+
+
 "Danganronpa" is a popular anime series that originated from a visual novel video game of the same name. The series is a blend of psychological thriller, murder mystery, and dark comedy, known for its unique concept and gripping storyline. Here's a breakdown of the key aspects:
 
 1. Plot Overview:
